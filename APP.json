@@ -1,0 +1,22 @@
+{
+  "slug": "sanchez-says",
+  "name": "Sánchez Says",
+  "wordmark": "SÁNCHEZ",
+  "subject": "Pedro Sánchez",
+  "handle": "sanchezcastejon",
+  "initials": "PS",
+  "color": "#88615b",
+  "profile": "https://x.com/sanchezcastejon",
+  "origin": "https://nanalab.kr/sanchez-says",
+  "photo": null,
+  "portrait": "assets/portrait.svg",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "reposts_excluded": true,
+  "translations": false
+}
